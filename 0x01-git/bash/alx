@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ‘ALX’
 “ALX School is so cool”
 =======
 #!/bin/bash
 echo "ALX School is so cool!"
 >>>>>>> b683296ad351980659671cf1aba33bc00d23159e
+=======
+ALX School
+>>>>>>> update_script
